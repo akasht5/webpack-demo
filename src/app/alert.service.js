@@ -20,3 +20,5 @@ class AlertService {
       this.errorBox.classList.add("invisible");
     }
   }
+
+  export default AlertService
